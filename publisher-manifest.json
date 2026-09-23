@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c9d0304894f8242a334f3004",
+  "owner": "trvmrbhaw",
+  "repo": "page-5db6b206426ee6661392def4",
+  "title": "清凉云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5db6b206426ee6661392def4",
+      "a": "清凉云",
+      "b": "稳定全球clash加速器",
+      "entity": "清凉云",
+      "brand": "清凉云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7b94af03400e57a2f644bb2981c462e0e6f49c2a356bd5d8422e08ac2adea0ca",
+      "content": {
+        "primary_entity": "清凉云",
+        "keyword1": "清凉云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择 Clash 客户端，路由器、电脑、手机分别有对应版本。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求挑一档订阅，配置好 Clash 客户端即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐再出发",
+          "AI_DESCRIPTION": "，清凉云提供基础版、旗舰版与团队版三档订阅，分别对应 100GB、300GB 与 1000GB 月流量，支持 3 台、5 台与 20 台设备同时在线，适配 Clash 等常见客户端，适合按设备数量与流量需求灵活选择。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量到订阅周期，三点帮你快速判断。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/3 台，旗舰版 300GB/5 台，团队版 1000GB/20 台，按设备与流量对号入座。",
+          "AI_FEATURE_TITLE_1": "套餐按需对应",
+          "AI_FEATURE_TEXT_2": "手机、电脑、路由器各装对应 Clash 客户端，同一订阅可在限定台数内同时使用。",
+          "AI_FEATURE_TITLE_2": "多设备订阅",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用更省。",
+          "AI_FEATURE_TITLE_3": "周期与价格",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到开始使用的过程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "清凉云提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，支持 3 至 20 台设备同时在线。搭配 Clash 客户端使用，按设备数量与流量需求选择合适档位即可。",
+          "AI_HERO_SUBTITLE": "清凉云订阅，按需选档",
+          "AI_HIGHLIGHT_1": "三档订阅可选",
+          "AI_HIGHLIGHT_2": "最多 20 台设备",
+          "AI_HIGHLIGHT_3": "年付更省心",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版平衡流量与设备数，团队版面向多人共享场景，可按月或按年订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数量与月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_2": "确认所在设备平台与同时在线台数是否符合所选套餐的适配要求。",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TEXT_3": "在设备上安装对应 Clash 客户端，按客户端文档导入订阅信息完成配置。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "清凉云订阅选择",
+          "AI_FAQ_ANSWER_1": "基础版适合一至三台设备、每月 100GB 流量以内的轻度使用；旗舰版适合需要更多流量与流媒体解锁的用户；团队版适合多设备或企业场景。",
+          "AI_FAQ_ANSWER_2": "清凉云支持 Clash、Sing-box、Shadowrocket、v2rayN 等常见客户端，具体兼容版本请查看各自客户端的说明文档。",
+          "AI_FAQ_ANSWER_3": "年付方式通常比按月支付更经济，例如旗舰版按年付为 ¥350，相当于每月约 ¥29，适合长期稳定使用的用户。",
+          "AI_FAQ_ANSWER_4": "套餐间的主要差异在于每月流量、可同时在线设备数量、节点线路类型与附加服务，可按需升级。",
+          "AI_FAQ_ANSWER_5": "在客户端中导入订阅链接并更新节点列表，即可根据客户端文档完成配置，不同平台操作步骤略有差异。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐适合什么使用场景？",
+          "AI_FAQ_QUESTION_2": "清凉云支持哪些客户端？",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选择更划算？",
+          "AI_FAQ_QUESTION_4": "套餐之间的主要区别是什么？",
+          "AI_FAQ_QUESTION_5": "订阅配置的流程是怎样的？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zzjkenn.cn",
+    "host": "zzjkenn.cn"
+  },
+  "file_hashes": {
+    "index.html": "bd5de39cebd6d6de58df2ffada3e77d0cb0e1ce3db3029b9f0e68edc4f950ba4",
+    "sitemap.xml": "7c09c2b81840179facf8f8069b736b930116db8303a03ac4bc459435d2911d38",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6d7c8cb817d91a99dcbb819968b342d10d99b0be003f8f70c2139d507199d003",
+    "robots.txt": "750b3659162941f8b70d05d84df70f19518d06ba02080ba48dd58f06cfa0b547",
+    "f1ff40247207fcca49e5c6d5686c5c3e.txt": "e5a77b993a336bbcd33eba2c6ae690c62cfa3d0c97eb5efc27387c145d74ca16"
+  },
+  "revision": "003d4b946e88a64d0de3c18322130ef05c443fd1bc90701db9152ad2dc638692"
+}
